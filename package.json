@@ -1,0 +1,17 @@
+{
+  "name": "chess434-ui-data",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Required to process the menu and footer of the chess434 frontend.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbmeans/chess434-ui-data.git"
+  },
+  "keywords": [ "menus", "chess piece images" ],
+  "author": "Timothy B. Means",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbmeans/chess434-ui-data/issues"
+  },
+  "homepage": "https://github.com/tbmeans/chess434-ui-data"
+}
